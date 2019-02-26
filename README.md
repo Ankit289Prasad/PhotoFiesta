@@ -1,1 +1,2 @@
 # PhotoFiesta
+*Simple Photo Gallery* 
